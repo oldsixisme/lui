@@ -1,5 +1,5 @@
 {
-  "name": "@oldsix/lui",
+  "name": "lui-lib",
   "version": "1.0.0",
   "main": "dist/lui.cjs.js",
   "module": "dist/lui.esm.js",
